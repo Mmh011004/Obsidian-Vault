@@ -119,13 +119,30 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "81294418106c718b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STM32/STM32 简介.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,6 +157,7 @@
   },
   "active": "a9133d15f14b41b8",
   "lastOpenFiles": [
+    "imgs/Pasted image 20240317160903.png",
     "STM32/STM32 简介.md",
     "vim学习/Vim操作.md",
     "STM32",
