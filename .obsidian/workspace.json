@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +158,7 @@
   },
   "active": "a9133d15f14b41b8",
   "lastOpenFiles": [
+    "imgs/Pasted image 20240317163855.png",
     "imgs/Pasted image 20240317160903.png",
     "STM32/STM32 简介.md",
     "vim学习/Vim操作.md",
