@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf50222ad23e939",
+        "id": "cc525486ae3cd23f",
         "type": "tabs",
         "children": [
           {
-            "id": "e5c427fc03325653",
+            "id": "a9133d15f14b41b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,23 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95af5691d39e5615",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "STM32/STM32 简介.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "d5b8f1bb53d294dc",
             "type": "leaf",
             "state": {
@@ -137,12 +120,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +138,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c906c9a2b2550a96",
+  "active": "a9133d15f14b41b8",
   "lastOpenFiles": [
-    "vim学习/Vim操作.md",
     "STM32/STM32 简介.md",
+    "vim学习/Vim操作.md",
     "STM32",
     "深入理解计算机系统/第二章 信息表示和处理.md",
     "知识/最小二乘法.md",
