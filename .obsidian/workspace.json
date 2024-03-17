@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "836e00ee1d3f0322",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "e5c427fc03325653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vim学习/Vim操作.md",
+                "file": "STM32/STM32 简介.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vim学习/Vim操作.md",
+                "file": "STM32/STM32 简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vim学习/Vim操作.md",
+                "file": "STM32/STM32 简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vim学习/Vim操作.md"
+                "file": "STM32/STM32 简介.md"
               }
             }
           }
@@ -157,13 +148,13 @@
   },
   "active": "e5c427fc03325653",
   "lastOpenFiles": [
+    "vim学习/Vim操作.md",
     "STM32/STM32 简介.md",
     "STM32",
     "深入理解计算机系统/第二章 信息表示和处理.md",
     "知识/最小二乘法.md",
     "知识/路径损耗模型.md",
     "imgs/Pasted image 20231127142851.png",
-    "vim学习/Vim操作.md",
     "Untitled.canvas",
     "2023-11-28.md",
     "算法题/快速排序.md",
