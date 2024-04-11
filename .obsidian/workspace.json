@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/STM32 简介.md",
+                "file": "STM32/预备知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/STM32 简介.md",
+                "file": "STM32/预备知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/STM32 简介.md"
+                "file": "STM32/预备知识.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/STM32 简介.md",
+                "file": "STM32/预备知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +157,12 @@
   },
   "active": "a9133d15f14b41b8",
   "lastOpenFiles": [
+    "STM32/STM32 简介.md",
+    "imgs/Pasted image 20240411222337.png",
+    "imgs/Pasted image 20240411222255.png",
+    "STM32/预备知识.md",
     "imgs/Pasted image 20240317163855.png",
     "imgs/Pasted image 20240317160903.png",
-    "STM32/STM32 简介.md",
     "vim学习/Vim操作.md",
     "STM32",
     "深入理解计算机系统/第二章 信息表示和处理.md",
