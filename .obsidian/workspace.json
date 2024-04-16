@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60f8457257a34038",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +166,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a9133d15f14b41b8",
+  "active": "60f8457257a34038",
   "lastOpenFiles": [
     "STM32/STM32 简介.md",
     "imgs/Pasted image 20240411222337.png",
