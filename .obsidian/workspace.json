@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/预备知识.md",
+                "file": "STM32/TIM时钟.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "60f8457257a34038",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/预备知识.md",
+                "file": "STM32/TIM时钟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/预备知识.md"
+                "file": "STM32/TIM时钟.md"
               }
             }
           },
@@ -137,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/预备知识.md",
+                "file": "STM32/TIM时钟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +155,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "60f8457257a34038",
+  "active": "a9133d15f14b41b8",
   "lastOpenFiles": [
+    "imgs/Pasted image 20240416224632.png",
+    "STM32/预备知识.md",
+    "STM32/TIM时钟.md",
     "STM32/STM32 简介.md",
     "imgs/Pasted image 20240411222337.png",
     "imgs/Pasted image 20240411222255.png",
-    "STM32/预备知识.md",
     "imgs/Pasted image 20240317163855.png",
     "imgs/Pasted image 20240317160903.png",
     "vim学习/Vim操作.md",
