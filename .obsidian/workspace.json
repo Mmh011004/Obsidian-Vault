@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STM32/TIM输出比较.md",
+                "file": "STM32/TIM输出比较和输入捕获.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/TIM输出比较.md",
+                "file": "STM32/TIM输出比较和输入捕获.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/TIM输出比较.md"
+                "file": "STM32/TIM输出比较和输入捕获.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/TIM输出比较.md",
+                "file": "STM32/TIM输出比较和输入捕获.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,8 +158,8 @@
   "active": "a9133d15f14b41b8",
   "lastOpenFiles": [
     "STM32/TIM时钟定时中断.md",
+    "STM32/TIM输出比较和输入捕获.md",
     "STM32/STM32 简介.md",
-    "STM32/TIM输出比较.md",
     "知识/最小二乘法.md",
     "知识/路径损耗模型.md",
     "imgs/Pasted image 20240417211201.png",
