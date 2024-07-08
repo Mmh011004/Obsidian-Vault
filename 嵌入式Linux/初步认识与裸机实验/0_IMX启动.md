@@ -12,4 +12,8 @@
 3. 从BOOT_CFG 设置的外置存储种，读取镜像image，然后做相应的处理
 
 ## 2_2 IVT 表和Boot Data 数据
-在
+load.imx 最前面的就是 IVT 和 Boot Data， IVT 包含了镜像程序的入口点、指向 DCD 的指针和一些用作其它用途的指针。内部 Boot ROM 要求 IVT 应该放到指定的位置，不同的启动设备位置不同，而 IVT 在整个 load.imx 的最前面，其实就相当于要求 load.imx 在烧写的时候应该烧写到存储设备的指定位置去。整个位置都是相对于存储设备的起始地址的偏移
+以 SD/EMMC 为例， IVT 偏移为 1Kbyte， IVT+Boot data+DCD 的总大小为 4KByte- 1KByte=3KByte。
+
+## 2_3 DCD 数据
+

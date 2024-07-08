@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9133d15f14b41b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STM32/ADC数模转换器.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7703d5034c98d454",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,9 +157,9 @@
   },
   "active": "7703d5034c98d454",
   "lastOpenFiles": [
-    "嵌入式Linux/初步认识与裸机实验/1_点灯.md",
-    "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
     "STM32/ADC数模转换器.md",
+    "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
+    "嵌入式Linux/初步认识与裸机实验/1_点灯.md",
     "未命名",
     "嵌入式Linux/初步认识与裸机实验",
     "嵌入式Linux",
