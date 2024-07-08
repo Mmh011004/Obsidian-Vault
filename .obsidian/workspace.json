@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7703d5034c98d454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STM32/ADC数模转换器.md",
+                "file": "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STM32/ADC数模转换器.md"
+                "file": "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md"
               }
             }
           },
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STM32/ADC数模转换器.md",
+                "file": "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,10 +168,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a9133d15f14b41b8",
+  "active": "7703d5034c98d454",
   "lastOpenFiles": [
-    "2024-05-14.md",
+    "嵌入式Linux/初步认识与裸机实验/1_点灯.md",
+    "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
     "STM32/ADC数模转换器.md",
+    "未命名",
+    "嵌入式Linux/初步认识与裸机实验",
+    "嵌入式Linux",
+    "2024-05-14.md",
     "STM32/TIM编码器接口.md",
     "STM32/TIM",
     "STM32/TIM输出比较和输入捕获.md",
