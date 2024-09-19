@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "342023aaec49fd47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "嵌入式Linux/驱动/Uboot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式Linux/零散概念.md",
+                "file": "嵌入式Linux/驱动/Uboot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式Linux/零散概念.md"
+                "file": "嵌入式Linux/驱动/Uboot.md"
               }
             }
           },
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式Linux/零散概念.md",
+                "file": "嵌入式Linux/驱动/Uboot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,10 +180,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "169cbd27d31d695f",
+  "active": "342023aaec49fd47",
   "lastOpenFiles": [
-    "嵌入式Linux/初步认识与裸机实验/1_点灯.md",
     "嵌入式Linux/零散概念.md",
+    "嵌入式Linux/驱动/Uboot.md",
+    "深入理解计算机系统/第二章 信息表示和处理.md",
+    "嵌入式Linux/驱动",
+    "嵌入式Linux/初步认识与裸机实验/1_点灯.md",
     "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
     "vim学习/Vim操作.md",
     "问题解答.md",
@@ -199,7 +214,6 @@
     "imgs/Pasted image 20240317163855.png",
     "imgs/Pasted image 20240317160903.png",
     "STM32",
-    "深入理解计算机系统/第二章 信息表示和处理.md",
     "Untitled.canvas",
     "2023-11-28.md",
     "算法题/快速排序.md",
@@ -208,7 +222,6 @@
     "imgs",
     "算法题",
     "2023-09-16.md",
-    "vim学习",
     "Untitled 1.canvas"
   ]
 }
