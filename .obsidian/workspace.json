@@ -170,9 +170,9 @@
   },
   "active": "169cbd27d31d695f",
   "lastOpenFiles": [
-    "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
-    "嵌入式Linux/零散概念.md",
     "嵌入式Linux/初步认识与裸机实验/1_点灯.md",
+    "嵌入式Linux/零散概念.md",
+    "嵌入式Linux/初步认识与裸机实验/0_IMX启动.md",
     "vim学习/Vim操作.md",
     "问题解答.md",
     "STM32/ADC数模转换器.md",
