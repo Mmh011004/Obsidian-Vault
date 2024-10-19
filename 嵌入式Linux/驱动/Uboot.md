@@ -6,3 +6,14 @@
 * Uboot 不仅仅能启动Linux，也可以启动其他系统，比如vxworks。
 * Linux 不仅仅能通过uboot 启动。
 * Uboot 是个通用的bootloader，支持多种架构。
+
+# Uboot 命令
+1. 关于环境变量命令
+	* printenv：打印环境变量
+	* setenv, saveenv: 用于修改、新增或者删除环境变量。删除环境变量就是在该环境变量setenv 时，后面为空即可
+		```
+		setenv bootdelay 5
+		saveenv
+		```
+2. 内存操作命令
+	* 
